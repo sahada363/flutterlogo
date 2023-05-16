@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "670973287642",
+    "project_id": "campus-5025d",
+    "storage_bucket": "campus-5025d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670973287642:android:bd0380b82e81e1cb69d9e3",
+        "android_client_info": {
+          "package_name": "com.example.flutterlogo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670973287642-bc1n6qq9cdvk3f00etkrri0etkdd5uqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV15xxhPKIDRoPXs7NjJnwbmIxUPP1bS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670973287642-bc1n6qq9cdvk3f00etkrri0etkdd5uqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
